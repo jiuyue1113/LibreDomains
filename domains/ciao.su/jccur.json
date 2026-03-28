@@ -1,7 +1,9 @@
 {
-  "description": "cursor邮箱注册",
+  "description": "jccur.ciao.su - 由配置生成器创建",
+  "subdomain": "jccur",
+  "domain": "ciao.su",
   "owner": {
-    "name": "杨真",
+    "name": "yangzhen",
     "github": "jiuyue1113",
     "email": "1347946977@qq.com"
   },
@@ -9,16 +11,9 @@
     {
       "type": "A",
       "name": "@",
-      "content": "185.199.108.153",
+      "content": "110.53.160.69",
       "ttl": 3600,
-      "proxied": false
-  },
-    {
-      "type": "CNAME",
-      "name": "www",
-      "content": "mordo-alex.github.io",
-      "ttl": 3600,
-      "proxied": false
+      "proxied": true
     }
   ]
 }
